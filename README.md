@@ -10,19 +10,19 @@
 
 <!-- Social Badges with Animation -->
 <p>
-  <a href="mailto:nissan19122006@gmail.com">
+  <a href="mailto:sri592007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/Nissan15">
+  <a href="https://github.com/sri986501">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/nissan-designer19">
+  <a href="www.linkedin.com/in/sriprabanchan-vetriyazhagan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Nissan15&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sri986501&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
 
 </div>
 
@@ -36,12 +36,13 @@
 </div>
 
 ```yaml
-name: Nissan
+name: Sriprabanchan Vetriyazhagan
 location: Coimbatore, Tamil Nadu, India
 focus:
   - Full-Stack Development
   - Web Applications
   - Hackathon Innovation
+  - Poster Designing
 interests:
   - JavaScript
   - React
@@ -63,6 +64,6 @@ Feel free to reach out: nissan19122006@gmail.com
 <!-- Optional: GitHub Stats (uncomment if you want them) -->
 <!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nissan15&show_icons=true&theme=dark" alt="Nissan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sri986501&show_icons=true&theme=dark" alt="Sriprabanchan's GitHub stats"/>
 </p>
 -->
