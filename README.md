@@ -1,60 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,16,24&text=Sriprabanchan%20Vetriyazhagan&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:2E2A27,100:5A4B3C&text=SRIPRABANCHAN%20VETRIYAZHAGAN&fontColor=F5E6C8&fontSize=42&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=00E7FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real+World+Applications;1000%2B+Problems+Solved;Hackathon+Enthusiast;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&duration=3200&pause=1200&color=D6C3A5&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%26+Data+Science+Student;Crafting+Software+with+Purpose;Modern+Solutions+Inspired+by+Classic+Engineering"/>
 
 <br>
 
-<a href="./ABOUT.md">
-<img src="https://img.shields.io/badge/About_Me-0EA5E9?style=for-the-badge"/>
-</a>
-
-<a href="./PROJECTS.md">
-<img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge"/>
-</a>
-
-<a href="./TECHSTACK.md">
-<img src="https://img.shields.io/badge/Tech_Stack-22C55E?style=for-the-badge"/>
-</a>
-
-<a href="./CERTIFICATIONS.md">
-<img src="https://img.shields.io/badge/Certificates-F97316?style=for-the-badge"/>
-</a>
-
-<a href="./ACHIEVEMENTS.md">
-<img src="https://img.shields.io/badge/Achievements-EAB308?style=for-the-badge"/>
-</a>
-
-<a href="./CONTACT.md">
-<img src="https://img.shields.io/badge/Contact-E11D48?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE-7A5C3E?style=for-the-badge&labelColor=2E2A27"/>
+<img src="https://img.shields.io/badge/LOCATION-Coimbatore,%20India-7A5C3E?style=for-the-badge&labelColor=2E2A27"/>
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%7C%20AI-7A5C3E?style=for-the-badge&labelColor=2E2A27"/>
 
 </div>
 
 ---
 
-# 👋 Welcome
+## 📜 About
 
-I'm **Sriprabanchan Vetriyazhagan**, an **AI & Data Science student** passionate about **Full Stack Development**, **Artificial Intelligence**, and **Competitive Programming**.
+> *"Technology changes every day, but good engineering is timeless."*
 
-### 🚀 Quick Navigation
+I'm **Sriprabanchan Vetriyazhagan**, a B.Tech student in **Artificial Intelligence & Data Science** with a passion for designing clean, scalable software.
 
-| Section | Description |
-|---------|-------------|
-| 👨‍💻 About | Learn more about me |
-| 🚀 Projects | Explore my featured work |
-| 🛠 Tech Stack | Technologies I work with |
-| 🏆 Achievements | Coding and hackathon accomplishments |
-| 📜 Certifications | Professional certifications |
-| 📫 Contact | Let's connect |
+My interests span **Full Stack Development**, **Artificial Intelligence**, and **modern software engineering**. I enjoy transforming ideas into practical solutions through thoughtful architecture and continuous learning.
+
+---
+
+### ⚙️ Current Focus
+
+```
+▸ Full Stack Development
+▸ Artificial Intelligence
+▸ System Design
+▸ Cloud Computing
+▸ Open Source
+```
 
 ---
 
 <div align="center">
 
-### ⭐ *"Building software that solves real-world problems."*
+### ❝ Build with curiosity. Engineer with purpose. ❞
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,16,24"/>
