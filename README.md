@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,25&height=200&section=header&text=Nissan%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,25&height=200&section=header&text=sri986501&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Passionate+Full-Stack+Developer;Hackathon+Enthusiast;Building+Innovative+Solutions;JavaScript+%7C+TypeScript+%7C+Python" alt="Typing SVG" /></a>
@@ -59,7 +59,7 @@ What I'm currently doing:
 - 🌱 Learning advanced TypeScript patterns and scalable design systems.
 - 👯 Open to collaborating on hackathons and project ideas that solve real problems.
 
-Feel free to reach out: nissan19122006@gmail.com
+Feel free to reach out: sri592007@gmail.com
 
 <!-- Optional: GitHub Stats (uncomment if you want them) -->
 <!--
